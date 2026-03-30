@@ -47,6 +47,10 @@ h1 {
     margin-bottom: 2rem;
 }
 
+h1 span {
+    color: var(--light);
+}
+
 p {
     font-size: 18px;
     font-weight: 300;
@@ -163,7 +167,7 @@ section {
 }
 
 #recurring {
-    background: url(../img/FB\ Monthly\ Giving\ Image\ for\ Website\ 1861\ ×\ 817\ .png);
+    background: url(../img/monthly-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
