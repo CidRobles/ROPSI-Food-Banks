@@ -177,6 +177,11 @@ section {
     padding: 4rem 0;
 }
 
+#recurring h1,
+#recurring p {
+    color: #fff;
+}
+
 #recurring img {
     margin: 30px 0;
 }
@@ -271,7 +276,7 @@ section {
 
 #qr h1,
 #qr p {
-    color: #221e20;
+    color: #fff;
 }
 
 footer {
