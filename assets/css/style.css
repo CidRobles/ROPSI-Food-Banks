@@ -331,4 +331,16 @@ footer img {
         width: 100%;
         max-width: 100%;
     }
+
+    .matching-stats {
+        flex-direction: column;
+    }
+
+    .stat {
+        width: 100%;
+    }
+
+    #crypto .container {
+        padding: 0.75rem;
+    }
 }
